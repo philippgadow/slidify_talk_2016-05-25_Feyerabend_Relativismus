@@ -1,9 +1,9 @@
 ---
-title       : Die Angst vor dem Relativismus Menschen
-subtitle    : Paul Feyerabend - Erkenntnis für freie
+title       : Die Angst vor dem Relativismus
+subtitle    : Paul Feyerabend - Erkenntnis für freie Menschen
 author      : Philipp Gadow
 job         : 
-framework   : beamer        # {io2012, html5slides, shower, dzslides, reveal.js ...}
+framework   : io2012        # {io2012, html5slides, shower, dzslides, reveal.js ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}

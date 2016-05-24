@@ -58,9 +58,9 @@ slide:not(.segue) h2{
   text-transform: normal;
   letter-spacing: -2px;
   line-height: 1.2em;
-/*  color: #193441;*/
-/*  color: #02574D;*/
-  color: #CC2904;
+  /*color: #193441; */
+  color: #02574D;
+  /*color: #CC2904;*/
 }
 
 /* Reduce Space between Title and Body */
