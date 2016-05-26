@@ -107,8 +107,7 @@ Darauf rief Dareios die indischen Kalatier, die die Leichen ihrer Eltern essen, 
 #### Relativismus des Protagoras: 
 Gesetze, Sitten, Lebensformen sind zwar relativ, aber sie gelten doch in bestimmten Bereichen.<br>
 
-(sozio-kosmologisch-rechtliche These)
-
+sozio-kosmologisch-rechtliche These: gesellschaftlich gelebter Relativismus im homerischen Griechenland
 
 Der Aggregatcharakter charakterisiert die homerische Welt. Es gibt keine allumfassende, einheitliche Erkenntnis oder Wahrheit, sondern nur auf vielfache Weise errungene Kenntnisse. In diese Welt fällt der Relativismus des Protagoras. (S.141ff.)
 
@@ -134,9 +133,9 @@ In case of Homer the world is comprehended as the sum of things, visible in spac
 
 Aus Mikroprozessen, die mit Bedeutungswandel von Begriffen hin zum Abstrakten einhergehen, bildet sich der Ursprung des Rationalismus.
 
-Spezifische Begriffe gebrauchte mannigfaltigen Beziehungen werden durch wenige und verallgemeinerte Beziehungen ersetzt. Der Inhalt von Begriffen wird (bewusst) vermindert, um zwingende Beweise zu ermöglichen.
+Spezifische Begriffe und Gebrauch mannigfaltiger Beziehungen werden durch wenige und verallgemeinerte Beziehungen ersetzt. Der Inhalt von Begriffen wird (bewusst) vermindert, um zwingende Beweise zu ermöglichen.
 
-Dieser Gehaltsverlust und ein universell angepasster Wahrheitsbegriff lassen en Irrtum entstehen, dass die neuen Beweise und auf ihnen beruhende Wissenschaften objektiv seien und nicht eine Tradition, der es an konkretem Inhalt fehlt. (S 143f.)
+Dieser Gehaltsverlust und ein universell angepasster Wahrheitsbegriff lassen den Irrtum entstehen, dass die neuen Beweise und auf ihnen beruhende Wissenschaften objektiv seien und nicht eine Tradition, der es an konkretem Inhalt fehlt. (S 143f.)
 
 ---
 
@@ -144,14 +143,14 @@ Dieser Gehaltsverlust und ein universell angepasster Wahrheitsbegriff lassen en 
 
 ### Ein Gegner: Xenophanes gegen die klassische Götterauffassung:
 
-> "Die Äthiopier bilden ihre Götter schwarz und stumpfnasing, die Thraker bauäugig und rothaarig ... Wenn Kühe, Pferde und Löwen Hände hätten udn damit malen könnten, dann würden die Pferde oferdeähnliche und die Kühe kuhförmige Göttergestalten schaffen ..."
+> "Die Äthiopier bilden ihre Götter schwarz und stumpfnasing, die Thraker blauäugig und rothaarig ... Wenn Kühe, Pferde und Löwen Hände hätten und damit malen könnten, dann würden die Pferde pferdeähnliche und die Kühe kuhförmige Göttergestalten schaffen ..."
 
 > "Einen Gott gibt es, weder an Gestalt noch an Gedanken den Sterblichen ähnlich. Immer bleibt er an derselben Stelle und ohne Bewegung. Nicht geziemt sichs für ihn, zu wandeln hierhin und dorthin, denn ohne Mühsal lenkt er das All durch die Kraft seines Geistes." (S. 144)
 
-- P: Eine Gottesauffassung, die sich von Volk zu Volk ändert, gilt nirgends.
-- P: Die Gottesauffassung ist regional unterschiedlich.
-- P: Eine unpersönliche, statische Gottesauffassung gilt überall.
-- F: Die Stammesgötter der Griechen, Thraker, etc. sind durch die aufgeklärte Gottesauffassung zu ersetzen.
+- Pr.: Eine Gottesauffassung, die sich von Volk zu Volk ändert, gilt nirgends.
+- Pr.: Die Gottesauffassung ist regional unterschiedlich.
+- Pr.: Eine unpersönliche, statische Gottesauffassung gilt überall.
+- Fol.: Die Stammesgötter der Griechen, Thraker, etc. sind durch die aufgeklärte Gottesauffassung zu ersetzen.
 
 ---
 
@@ -206,17 +205,17 @@ Sollen wir Menschen wirklich schutzlos dem Einfluss barbarischer Traditionen üb
 (S. 152 - 156)
 
 #### Entgegnung
-Diese Fragen sind ein Musterbeispiel der oberflächlichen, abstrakten und subjektiven Denkweise der meisten Intellektuellen. Man fragt nicht, wie die fremden Traditionen von innen aussehen, man untersucht nicht die Werte und die Weltansichten, auf denen sie beruhen, man macht sich keien Gedanken überdie sehr greifbaren Verluste, die eine Zerstörung dieser Werte zur Folge hat - man erhebt ganz unverfroren seine eigene Weltansicht zum universellen Kriterium des Menschseins und masst sich an, das Glück, das Leiden, die Wünsche anderer mit diesem Kriterium zu messen.
+Diese Fragen sind ein Musterbeispiel der oberflächlichen, abstrakten und subjektiven Denkweise der meisten Intellektuellen. Man fragt nicht, wie die fremden Traditionen von innen aussehen, man untersucht nicht die Werte und die Weltansichten, auf denen sie beruhen, man macht sich keien Gedanken überdie sehr greifbaren Verluste, die eine Zerstörung dieser Werte zur Folge hat - man erhebt ganz unverfroren seine eigene Weltansicht zum universellen Kriterium des Menschseins und maßt sich an, das Glück, das Leiden, die Wünsche anderer mit diesem Kriterium zu messen.
 Dies wird klar am Beispiel der westlichen Medizin.
 
-Welches Recht haben wir anzunehmen, unser eigenes Menschenbildzum Massstab nicht nur unserer Handlungen, sondern zur sozialen Randbedingung der Handlungen aller Menschen zu machen?
+Welches Recht haben wir anzunehmen, unser eigenes Menschenbildzum Maßmastab nicht nur unserer Handlungen, sondern zur sozialen Randbedingung der Handlungen aller Menschen zu machen?
 
 
 ---
 ## Traditionen in der Gesellschaft
 
-In den Gesellschaften, in denen wir leben, habe wir eine Grundtradition, eien Reihe von Institutionen, die auf ihr beruhen, und verschiedene Gruppen, die nicht nach Art der Grundtradition, sondern nach ihren eigenen Traditionen leben wollen.
-Sie stossen auf eine Mauer von Verboten, Gesetzen, Schreckreaktionen, dogmatischen Behauptungen und einfachem Staunen.
+In den Gesellschaften, in denen wir leben, habe wir eine Grundtradition, eine Reihe von Institutionen, die auf ihr beruhen, und verschiedene Gruppen, die nicht nach Art der Grundtradition, sondern nach ihren eigenen Traditionen leben wollen.
+Sie stoßen auf eine Mauer von Verboten, Gesetzen, Schreckreaktionen, dogmatischen Behauptungen und einfachem Staunen.
 
 ### Handlungsoptionen des Einzelnen
 - kritische Analyse: Verteidigung und Verbreitung der Grundtradition durch elitäre Denkbeamte und Begriffsverwalter
@@ -228,12 +227,10 @@ Sie stossen auf eine Mauer von Verboten, Gesetzen, Schreckreaktionen, dogmatisch
 ## Traditionen in der Gesellschaft
 
 ### Unmöglichkeit der rationalen Behandlung
-> Eine rationale Behandlung, die alles bis ins letzte ausdenkt, ist für ihn sowohl unvollständig - sie berücksichtigt nicht die hsitorische Situation und die sich ständig ändernden Wünsche, Kenntnisse und Motivationen der Betroffenen - als auch zu vollständig: sie bildet sich ein, in Gedanken vollenden zu können, was nur in der Wirklichkeit und nur auf Grund von unvorhersagbarer Entscheidungen der betreffenden Menschen vollendet werden kann - und daher wieder unvollständig, denn sie versäumt es, für diese Entscheidungen Raum zu machen, und so den Anschluss an die Wirklichkeit zu finden.
+> Eine rationale Behandlung, die alles bis ins letzte ausdenkt, ist für ihn sowohl unvollständig - sie berücksichtigt nicht die historische Situation und die sich ständig ändernden Wünsche, Kenntnisse und Motivationen der Betroffenen - als auch zu vollständig: sie bildet sich ein, in Gedanken vollenden zu können, was nur in der Wirklichkeit und nur auf Grund von unvorhersagbarer Entscheidungen der betreffenden Menschen vollendet werden kann - und daher wieder unvollständig, denn sie versäumt es, für diese Entscheidungen Raum zu machen, und so den Anschluss an die Wirklichkeit zu finden.
 
 In der Wissenschaft triumphierte in der Dichotomie um Vernunft und Praxis die Praxis und zwar oft unter Ausschluss der Vernunft, in der Politik ist aber eine solche Überwindung nicht nur eine Tatsache, sondern eine Forderung der Freiheit: die Tradition der Vernunft ist nur eine von vielen Traditionen und hat keine grösseren Rechte als andere Traditionen auch.
 
-### These:
-Bürgerinitiativen und nicht Erkenntnistheorie verschaffen uns Freiheit.
 
 ---
 ## Rolle der Intellektuellen in einer freien Gesellschaft
@@ -261,7 +258,7 @@ Freie Gesellschaften werden geschaffen und verändert durch Bürgerinitiativen u
 Man hält ganz selbstverständlich die wissenschaftliche Medizin für die richtige Behandlungsweise aller Krankheiten in allen Traditionen. Annahmen:
 
 1. Die westliche Medizin heilt (in ihrem Sinn) Krankheiten (in ihrem Sinn) besser als alle Alternativen. (empirische Annahme)
-2. Ihre Idee eines gesunden Lebens ist die einzig massgebende.
+2. Ihre Idee eines gesunden Lebens ist die einzig maßgebende.
 3. Jeder Widerspruch zwischen den von ihr empfohlenen Eingriffen und traditionellen Werten muss zu ihren Gunsten gelöst werden.
 
 Nicht als Menschen behandelt die wissenschaftliche Medizin ihre Patienten, sondern als komplexe materielle Systeme und ihr Ziel ist nicht eine Verbesserung der Qualität des Lebens, so wie es die Patienten verstehen, sonderndas bessere materielle Funktionieren der Systeme.
@@ -284,7 +281,6 @@ Es gibt nun einmal verschiedene Traditionen, Grundlage für die Angst vor dem Re
 
 #### Versuch einer Definition des Relativismus
 Der Relativismus bezeichnet die opportunistisch, eklektische Haltung zu Traditionen, welche für sich betrachtet weder gut noch schlecht sind und in einer freien Gesellschaft gleiche Rechte haben. Obwohl die aus einer Tradition begründeten Lebensformen, Gesetze, Sitten relativ sind, gelten sie in bestimmten Bereichen.
-
 
 #### These:
 Bürgerinitiativen und nicht Erkenntnistheorie verschaffen uns Freiheit (in Form einer Gesellschaft von relativistischen und offenen Traditionsverbänden).
@@ -314,22 +310,21 @@ Der Relativismus bezeichnet die opportunistisch, eklektische Haltung zu Traditio
 
 Als Eklektizismus (von griech. ἐκλεκτός, eklektos, „ausgewählt“) bezeichnet man Methoden, die sich verschiedener entwickelter und abgeschlossener Systeme (z. B. Stile, Disziplinen, Philosophien) bedienen und deren Elemente neu zusammensetzen.
 
+(Wikipedia-Artikel Eklektizismus, abgerufen am 25.05.2016)
 ---
 ## Definition von Begriffen
 
 #### Dichotomie
-Dichotomie bezeichnet eine Struktur aus zwei Teilen, die einander gegenüberstehen und einander ergänzen (zum Beispiel ein komplementäres Begriffspaar), oder eine Aufteilung in zwei solche Teile (zum Beispiel die Aufteilung eines ganzen Bereichs in zwei Teilbereiche).
+Dichotomie (gr. dichotomia von dicha zweimal und tomê Einteilung) heißt im weiteren Sinne jede zweigliedrige Einteilung, z.B. die Einteilung des menschlichen Wesens in Leib und Seele, oder der Gestirne in Fixsterne und Planeten. Die Dichotomie im engem Sinne zerlegt ein Ganzes in zwei kontradiktorische (s. d.) Gegensätze, so daß ein Drittes daneben ausgeschlossen ist. 
 
-Dichotomie bedeutet wörtlich „Zweiteilung“ (griechisch διχότομος dichótomos „halbgeteilt“, „entzweigeschnitten“, „in zwei Teile gespalten“; aus δίχα dícha „entzwei“, „getrennt“ und τέμνειν témnein „schneiden“).[1] Das Adjektiv lautet dichotom oder dichotomisch. Man spricht beispielsweise von einer dichotomen oder dichotomischen Methode, wenn sie auf Einteilungen in jeweils zwei Teile oder Gruppen beruht.
-
+(Kirchner, Friedrich / Michaëlis, Carl: Wörterbuch der Philosophischen Grundbegriffe. Leipzig 51907, S. 145.)
 ---
 ## Definition von Begriffen
 
 #### Takt
-Taktgefühl (auch kurz Takt, veraltet Zartsinn) ist die umgangssprachliche Bezeichnung für die Fähigkeit, mit anderen Menschen in Kontakt zu stehen, ohne sie zu brüskieren oder zu beschämen oder ihnen unangemessen zu nahe zu treten. Es kann sich auch zur Charaktereigenschaft verfestigen. 
+Der Takt bezeichnet das feine Gefühl für das Angemessene, Schickliche. Dieser Takt, welcher zum Teil angeboren, zum Teil anerzogen ist, leitet den Menschen instinktiv dahin, daß er das Richtige in allen Lebenslagen trifft. Überall beruht er auf dem lebendigen Bewußtsein unserer Schranke, der Grenze, die uns durch die Verhältnisse gezogen ist. Ein taktvoller Mensch weiß genau, wie weit er im einzelnen Fälle gehen darf, ein taktloser niemals. 
 
-Soziologisch wird Takt in einen „Satz von Verhaltensformen für Kommunikationspartner“ gefasst, die die Selbstdarstellung des anderen nicht durchbrechen wollen „und ihn auch dort noch schonen, wo er unglaubhaft wird“. Bestandteil eines taktvollen Handelns ist, dass es unauffällig bleibt. Niklas Luhmann hat in seiner Sozialtheorie darauf hingewiesen, "daß Takt nur mittels Erwartung von Erwartungen möglich ist", zudem "nicht einfach die Erfüllung fremder Erwartungen" ist, "sondern ein Verhalten, mit dem A sich als derjenige darstellt, den B als Partner braucht, um derjenige sein zu können, als der er sich A gegenüber darstellen möchte."
-
+(Kirchner, Friedrich / Michaëlis, Carl: Wörterbuch der Philosophischen Grundbegriffe. Leipzig 51907, S. 617-618.)
 ---
 ## Gliederung
 
@@ -386,24 +381,3 @@ Die Kommunisten arbeiten endlich überall an der Verbindung und Verständigung d
 Die Kommunisten verschmähen es, ihre Ansichten und Absichten zu verheimlichen. Sie erklären es offen, daß ihre Zwecke nur erreicht werden können durch den gewaltsamen Umsturz aller bisherigen Gesellschaftsordnung. Mögen die herrschenden Klassen vor einer Kommunistischen Revolution zittern. Die Proletarier haben nichts in ihr zu verlieren als ihre Ketten. Sie haben eine Welt zu gewinnen.
 
 (Manifest der Kommunistischen Partei, London 1848)
-
-<!--
-## Anmerkung zum Verweis auf AM Kapitel 17
-
-To sum up: the archaic world is much less compact than the world that surrounds us, and it is also experienced as being less compact. Archaic man lacks physical unity, his body consists of a multitude of parts, limbs, surfaces, connections; and his mind is composed of a variety of events, some of them not even mental in our sense, which either inhabit the body-puppet as additional constituents or are brought into it from the outside.
-
-Events are not shaped by the individual, they are complex arrangements of parts into which the body-puppet is inserted at the appropriate place. This is the world-view that emerges from an analysis of the formal features of archaic art and Homeric poetry, taken in conjunction with an analysis of the concepts which the Homeric poet used for describing what he perceives. Its main features are experienced by the individuals using the concepts. These individuals live indeed in the same kind of world that is constructed by their artists.
-
-For the lack of compactness just described reappears in the field of ideology. There is a tolerance in religious matters which later generations found morally and theoretically unacceptable and which even today is regarded as a manifestation of frivolous and simple minds.
-Archaic man is a religious eclectic, he does not object to foreign gods and myths, he adds them to the existing furniture of the world without any attempt at synthesis, or a removal of contradictions. There are no priests, there is no dogma, there are no categorical statements about the gods, humans, the world. (This tolerance can still be found with the Ionian philosophers of nature who develop their ideas side by side with myth without trying to eliminate the latter.) There is no religious morality in our sense, nor are the gods abstranct embodiments of eternal principles. This they became later, during the archaic age, and as a result they lost their humanity. Hence Olympianism in its moralized form tended to become a religion of fear, a tendency which is reflected in the religious vocabulary. There is no word for god-fearing in the Iliad. This is how life was dehumanized by what some people are pleased to call moral progress or scientific progress.
-
-Similar remarks apply to the theory of knowledge that is implicit in this early world-view. The Muses in Iliad 2.284ff, have knowledge because they are close to things - they do not have to rely on rumours - and because they know all the many things that are of interest to the writer, one after the other. Quantity, not intensity is Homer's standard of judgement and of knowledge, as becomes clear from such words as much pondering and much thinking as well as from later criticisms such as Lerning of many things does not teach intelligence. An interest in, and a wish to understand, many amazing things (such as earthquakes, eclipses of the sund and the moon, the paradoxical rising and falling of the Nile), each of them explained in its own particular way and without the use of universal principles, persists in the coastal descriptions of the 8th and 7th (and later) centuries (which simply enumerate the tribes, tribal habits, and coastal formations that are successively met during the journey), and even a thinker such as Thales is satisfied with making many interesting observations and providing many explanations without trying to tie them together in a system. (The first thinker toi construct a system was Anaximander, who followed Hesiod.)
-Knowledge so conceived is not obtained by trying to grasp an essence behind the reports of the senses but buy (1) putting the observer in the right position relative to the object (process, aggregate), by insterting him into the appropriate place in the complex pattern that constitutes the world, and (2) by adding up the elements which are noted under these circumstances. It is the result of a complex survey carried out from suitable vantage points. 
-
-Nor is there any uniform conception of knowledge. A great variety of words is used for expressing what we today regard as different forms of knowledge, or as different ways of acquiring knowledge. Sophia means expertise in a certain profession (carpenter, singer, general, physician, charioteer, wrestler) including the arts (where it praises the artist not as an outstanding creator but as a master of his craft); edenai, literally having seen, refers to knowledge gained from inspection; suniemi, especially in the Iliad, though often translated as listening or understanding is stronger - it contains the idea of following and obeying, one absorbs something and acts in accordance with it (hearing may play an important role). And so on. 
-
-[The world of the archaic man is an open world. Its elements are not formed or held together by an underlying substance, they are not appearances from which this substance may be inferred with difficulty. They occasionally coalesce to form assemblages. The relation of a single element to the assemblage to which it belongs is like the relation of a part to an aggregate of parts and not like the relation of a part to an overpowering whole. The particualr aggregate called man is visited and occasionally inhabited by mental events. Such events may reside in him, they may also enter from the outside. Like every other object man is an exchange station of influences rather than a unique source of action an I (Descartes' cogitp has no point of attack in this world, and his argument cannot even start). 
-
-Complete knowledge of an object is complete enumeration of its parts and peculiarities. Humans cannot have complete knowledge.
-In case of Homer the world is comprehended as the sum of things, visible in space and not as reason acting intensively.
--->
