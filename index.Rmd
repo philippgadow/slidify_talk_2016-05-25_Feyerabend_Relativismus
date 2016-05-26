@@ -311,6 +311,7 @@ Der Relativismus bezeichnet die opportunistisch, eklektische Haltung zu Traditio
 Als Eklektizismus (von griech. ἐκλεκτός, eklektos, „ausgewählt“) bezeichnet man Methoden, die sich verschiedener entwickelter und abgeschlossener Systeme (z. B. Stile, Disziplinen, Philosophien) bedienen und deren Elemente neu zusammensetzen.
 
 (Wikipedia-Artikel Eklektizismus, abgerufen am 25.05.2016)
+
 ---
 ## Definition von Begriffen
 
@@ -318,6 +319,7 @@ Als Eklektizismus (von griech. ἐκλεκτός, eklektos, „ausgewählt“) b
 Dichotomie (gr. dichotomia von dicha zweimal und tomê Einteilung) heißt im weiteren Sinne jede zweigliedrige Einteilung, z.B. die Einteilung des menschlichen Wesens in Leib und Seele, oder der Gestirne in Fixsterne und Planeten. Die Dichotomie im engem Sinne zerlegt ein Ganzes in zwei kontradiktorische (s. d.) Gegensätze, so daß ein Drittes daneben ausgeschlossen ist. 
 
 (Kirchner, Friedrich / Michaëlis, Carl: Wörterbuch der Philosophischen Grundbegriffe. Leipzig 51907, S. 145.)
+
 ---
 ## Definition von Begriffen
 
@@ -325,6 +327,7 @@ Dichotomie (gr. dichotomia von dicha zweimal und tomê Einteilung) heißt im wei
 Der Takt bezeichnet das feine Gefühl für das Angemessene, Schickliche. Dieser Takt, welcher zum Teil angeboren, zum Teil anerzogen ist, leitet den Menschen instinktiv dahin, daß er das Richtige in allen Lebenslagen trifft. Überall beruht er auf dem lebendigen Bewußtsein unserer Schranke, der Grenze, die uns durch die Verhältnisse gezogen ist. Ein taktvoller Mensch weiß genau, wie weit er im einzelnen Fälle gehen darf, ein taktloser niemals. 
 
 (Kirchner, Friedrich / Michaëlis, Carl: Wörterbuch der Philosophischen Grundbegriffe. Leipzig 51907, S. 617-618.)
+
 ---
 ## Gliederung
 
@@ -356,7 +359,7 @@ Der Freiheitsbegriff Feyerabends ist ausschliesslich negativ (Freiheit von) und 
 4. **Einordnung**
 
 ---
-## Zehn Thesen aus Against Method: Kapitel 18
+## Zehn Thesen aus Against Method
 
  1.) Traditions are neither good nor bad, they simply are.<br>
  2.) A tradition assumes desirable or undesirable properties only when compared to some tradition.<br>
@@ -369,6 +372,7 @@ Der Freiheitsbegriff Feyerabends ist ausschliesslich negativ (Freiheit von) und 
  9.) The debates settling the structure of a free society are open debates not guided debates.<br>
 10.) A free society insists on the separation of science and society.<br>
 
+(Against Method: Kapitel 18)
 
 ---
 ## Das Gespenst des Relativismus
